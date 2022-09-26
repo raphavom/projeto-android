@@ -26,12 +26,12 @@ img {
 }
 
 :root {
-    --cor0: #C7FFED;
-    --cor1: #D8FFDB;
-    --cor2: #008F8C;
-    --cor3: #015958;
-    --cor4: #023535;
-    --cor5: #012323;
+    --cor0: #bec8f4;
+    --cor1: #4767f7;
+    --cor2: #2f4bc7;
+    --cor3: #434d7d;
+    --cor4: #192a78;
+    --cor5: #071038;
 
     --fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
     --fonte-destaque: 'Bebas Neue', cursive;
